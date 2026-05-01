@@ -5,6 +5,7 @@ flask>=3.0.0
 pandas>=1.5.0
 matplotlib>=3.5.0
 Pillow>=9.0.0
+gunicorn>=21.0.0
 
 # These are already part of Python standard library (no install needed):
 # sqlite3, hashlib, uuid, secrets, io, re, time, base64, os, logging
